@@ -1,0 +1,134 @@
+.titlee1 {
+    left: 0;
+    top: 0;
+    bottom: 0;
+    position: fixed;
+    display: inline-block;
+    background-color: black;
+    color: white;
+    width: 100px;
+    line-height: 150px;
+}
+.menuu1 {
+cursor: pointer;
+}
+.menuu1:hover {
+    background-color: grey;
+}
+.primary {
+    background-color: rgb(26, 25, 25);
+    width: 400px;
+    height: 600px;
+    box-shadow: 10px 10px 10px blue;
+}
+.primary:hover {
+box-shadow: 10px 10px 10px green;
+}
+.text1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 20px;
+}
+.img1 {
+    line-height: 150px;
+}
+.imgpro1 {
+    width: 100px;
+    cursor: pointer;
+    border: 3px solid red;
+    border-radius: 20%;
+}
+.imgpro2 {
+    width: 100px;
+    cursor: pointer;
+    border: 3px solid red;
+    border-radius: 20%;
+    height: 90px;
+}
+.imgpro3 {
+    width: 100px;
+    cursor: pointer;
+    border: 3px solid red;
+    border-radius: 20%;
+    height: 90px;
+}
+.titlee2 {
+    border: 3px solid black;
+    margin-left: -200px;
+}
+.menuu2 {
+    background-color: gray;
+    width: 610px;
+    height: 100px;
+}
+.textia1 {
+    margin-left: 300px;
+    font-size: 18px;
+}
+.textia2 {
+    font-size: 20px;
+    margin-left: 300px;
+    width: 270px;
+    animation-name: test-anim;
+    animation-duration: 0.5s;
+    animation-iteration-count: infinite;
+}
+@keyframes test-anim {
+    0% {
+        border: 3px solid black;
+    }25%{
+    border: 3px solid green;
+    }50% {
+        border: 3px solid red;
+    }75% {
+        border: 3px solid white;
+    }100% {
+        border: 3px solid black;
+    }
+}
+.textia3 {
+    color: rgb(0, 0, 92);
+}
+.titlee3 {
+    border: 2px solid black;
+    width: 300px;
+    height: 950px;
+    margin-left: 110px;
+}
+.textia4 {
+    line-height: 40px;
+}
+.picture1 {
+    width: 300px;
+    
+}
+.textia5 {
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.textia6 {
+    font-family: monospace;
+    font-size: 20px;
+}
+.picture2 {
+    width: 300px;
+}
+.textia7 {
+    line-height: 80px;
+    color: red;
+    font-size: 24px;
+}
+.textia8 {
+    font-size: 20px;
+}
+.titlepro1 {
+    left: 0;
+    top: 0;
+    bottom: 0;
+    position: fixed;
+    display: inline-block;
+    background-color: black;
+    color: white;
+    width: 100px;
+    line-height: 150px;
+}
