@@ -58,7 +58,7 @@ box-shadow: 10px 10px 10px green;
 }
 .menuu2 {
     background-color: gray;
-    width: 610px;
+    width: 515px;
     height: 100px;
 }
 .textia1 {
@@ -68,7 +68,7 @@ box-shadow: 10px 10px 10px green;
 .textia2 {
     font-size: 13px;
     margin-left: 300px;
-    width: 270px;
+    width: 180px;
     animation-name: test-anim;
     animation-duration: 0.5s;
     animation-iteration-count: infinite;
@@ -97,6 +97,7 @@ box-shadow: 10px 10px 10px green;
 }
 .textia4 {
     line-height: 40px;
+    font-size: 11px
 }
 .picture1 {
     width: 220px;
